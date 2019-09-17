@@ -15,11 +15,20 @@
   💭 This should have checking that a value was returned
   🔡my_bytes ❗ ➡ 🖍file_strings
   
-  🔫 🍺file_strings 🔤 🔤❗ ➡ 🖍🆕 list_o_strings
+  🔫 🍺file_strings 🔤❌n🔤❗ ➡ 🖍🆕 list_o_strings
+
+  🆕🍨🐚🔡🍆🐸 ❗ ➡ 🖍🆕cleaned_strings
+
+  🔂string list_o_strings 🍇
+    🔫 string 🔤 🔤❗ ➡ cleaned
+    🔂 clean cleaned 🍇
+      🐻 cleaned_strings clean  ❗
+    🍉
+  🍉
 
   🍯🔤delete_me🔤 10 🍆 ➡ 🖍🆕thecount
   
-  🔂 text list_o_strings 🍇
+  🔂 text cleaned_strings🍇
     😀 text❗️
   
     ↪️ 🐣 thecount text ❗ 🍇
