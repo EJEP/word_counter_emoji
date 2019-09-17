@@ -23,15 +23,23 @@
     😀 text❗️
   
     ↪️ 🐣 thecount text ❗ 🍇
-	 🐽 thecount text ❗ ➡ 🖍🆕 prev
-	 🍺 prev  ➡ 🖍🆕 prev_val
-	 prev_val ➕ 1 ➡ 🖍🆕 now
-	 now ➡ 🐽 thecount text ❗
+      🐽 thecount text ❗ ➡ 🖍🆕 prev
+      🍺 prev  ➡ 🖍🆕 prev_val
+      prev_val ➕ 1 ➡ 🖍🆕 now
+      now ➡ 🐽 thecount text ❗
     🍉
     🙅 🍇
-    1 ➡ 🐽thecount text❗
+         1 ➡ 🐽thecount text❗
     🍉
   🍉
-  
+
+  🐙 thecount ❗ ➡ keys  
+
+  🔂 key keys 🍇
+    🐽 thecount key ❗ ➡ num
+    🍺 num ➡ 🖍🆕 num_val
+    🔡 num_val 10 ❗➡val_str
+    😀 🍪 key 🔤 🔤 val_str 🍪 ❗
+  🍉
   
 🍉
