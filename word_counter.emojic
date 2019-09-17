@@ -5,9 +5,9 @@
   🎞🐇💻❗ ➡ args
   
   🐽 args 1 ❗ ➡f_name
-  😀 f_name ❗️
   
   💭 Need code to check that this was worked
+  💭 Ought to check that the file exists as well
   🍺📇🐇📄 f_name ❗ ➡ 🖍🆕my_bytes
   
   🖍🆕 file_strings 🍬🔡
@@ -23,11 +23,15 @@
     😀 text❗️
   
     ↪️ 🐣 thecount text ❗ 🍇
-	
+	 🐽 thecount text ❗ ➡ 🖍🆕 prev
+	 🍺 prev  ➡ 🖍🆕 prev_val
+	 prev_val ➕ 1 ➡ 🖍🆕 now
+	 now ➡ 🐽 thecount text ❗
     🍉
     🙅 🍇
     1 ➡ 🐽thecount text❗
     🍉
-  
   🍉
+  
+  
 🍉
