@@ -9,14 +9,14 @@
   
   💭 Need code to check that this was worked
   💭 Ought to check that the file exists as well
-  🍺📇🐇📄 f_name ❗ ➡ 🖍🆕my_bytes
+  🍺📇🐇📄 f_name ❗ ➡ my_bytes
   
   🖍🆕 file_strings 🍬🔡
   
   💭 This should have checking that a value was returned
   🔡my_bytes ❗ ➡ 🖍file_strings
   
-  🔫 🍺file_strings 🔤❌n🔤❗ ➡ 🖍🆕 list_o_strings
+  🔫 🍺file_strings 🔤❌n🔤❗ ➡ list_o_strings
 
   🆕🍨🐚🔡🍆🐸 ❗ ➡ 🖍🆕cleaned_strings
 
@@ -31,9 +31,9 @@
   
   🔂 text cleaned_strings🍇
     ↪️ 🐣 thecount text ❗ 🍇
-      🐽 thecount text ❗ ➡ 🖍🆕 prev
-      🍺 prev  ➡ 🖍🆕 prev_val
-      prev_val ➕ 1 ➡ 🖍🆕 now
+      🐽 thecount text ❗ ➡  prev
+      🍺 prev  ➡  prev_val
+      prev_val ➕ 1 ➡  now
       now ➡ 🐽 thecount text ❗
     🍉
     🙅 🍇
@@ -45,7 +45,7 @@
 
   🔂 key keys 🍇
     🐽 thecount key ❗ ➡ num
-    🍺 num ➡ 🖍🆕 num_val
+    🍺 num ➡  num_val
     🔡 num_val 10 ❗➡val_str
     😀 🍪 key 🔤 🔤 val_str 🍪 ❗
   🍉
