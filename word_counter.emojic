@@ -26,7 +26,7 @@
   🔡raw_bytes ❗ ➡ 🖍file_string
 
   ↪️ file_string 🙌 🤷‍♀️ 🍇
-   🤯🐇💻🔤Could not convert bytes to string🔤❗️
+   🤯🐇💻🔤Could not convert bytes to file🔤❗️
  🍉
   
   🔫 🍺file_string 🔤❌n🔤❗ ➡ line_strings
@@ -41,16 +41,30 @@
   🍉
 
   🆕🍯🐚🔢🍆🐸❗ ➡ 🖍🆕thecount
-  
+
+  🍯 🔤one🔤 1 🔤two🔤 2 🔤three🔤 3 🔤four🔤 4 🔤five🔤 5 🔤six🔤 6 🔤seven🔤 7 🔤eight🔤 8 🔤nine🔤 9  🍆 ➡️ numbers
+  🔤🔤➡🖍🆕previous_word
+
   🔂 text cleaned_strings🍇
-    ↪️ 🐣 thecount text ❗ 🍇
+   ↪️ 🐣 numbers text ❗ 🍇
+      🍺🐽 numbers text ❗ ➖ 1 ➡ to_add
+      ↪️ 🐣 thecount previous_word ❗🍇
+         🍺🐽 thecount previous_word ❗ ➡  prev
+          prev ➕ to_add ➡  now
+          now ➡ 🐽 thecount previous_word ❗
+      🍉
+   🍉
+
+   🙅↪️ 🐣 thecount text ❗ 🍇
       🐽 thecount text ❗ ➡  prev
       🍺 prev  ➡  prev_val
       prev_val ➕ 1 ➡  now
       now ➡ 🐽 thecount text ❗
+      text➡🖍previous_word
     🍉
     🙅 🍇
          1 ➡ 🐽thecount text❗
+         text➡🖍previous_word
     🍉
   🍉
 
