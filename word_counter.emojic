@@ -9,18 +9,18 @@
   
   💭 Need code to check that this was worked
   💭 Ought to check that the file exists as well
-  🍺📇🐇📄 f_name ❗ ➡ my_bytes
+  🍺📇🐇📄 f_name ❗ ➡ raw_bytes
   
-  🖍🆕 file_strings 🍬🔡
+  🖍🆕 file_string 🍬🔡
   
   💭 This should have checking that a value was returned
-  🔡my_bytes ❗ ➡ 🖍file_strings
+  🔡raw_bytes ❗ ➡ 🖍file_string
   
-  🔫 🍺file_strings 🔤❌n🔤❗ ➡ list_o_strings
+  🔫 🍺file_string 🔤❌n🔤❗ ➡ line_strings
 
   🆕🍨🐚🔡🍆🐸 ❗ ➡ 🖍🆕cleaned_strings
 
-  🔂string list_o_strings 🍇
+  🔂string line_strings 🍇
     🔫 string 🔤 🔤❗ ➡ cleaned
     🔂 clean cleaned 🍇
       🐻 cleaned_strings clean  ❗
