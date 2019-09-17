@@ -4,12 +4,13 @@
 
 
   🎞🐇💻❗ ➡ args
-  
+
+  ↪️ 🐔args❗ ◀ 2 🍇
+     🤯🐇💻 🔤No argument🔤 ❗
+  🍉  
+
   🐽 args 1 ❗ ➡f_name
   
-  💭 Need code to check that this was worked
-  💭 Ought to check that the file exists as well
-
   📜🕊📑 f_name ❗ ➡ file_exists
   ❎file_exists ❗ ➡ file_not_readable
 
