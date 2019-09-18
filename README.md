@@ -10,4 +10,4 @@ This is based on a challenge for work so has twists that
 
 ## Emojicode Installation
 
-The documentation for emojicode is [here](https://www.emojicode.org/docs/). For installation instructions see [here](https://www.emojicode.org/docs/guides/install.html). Of particular use may be the ability to [https://www.emojicode.org/docs/guides/install.html#try-emojicode-without-installing](try without installing)
+The documentation for emojicode is [here](https://www.emojicode.org/docs/). For installation instructions see [here](https://www.emojicode.org/docs/guides/install.html). Of particular use may be the ability to try without installing.
