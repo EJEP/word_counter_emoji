@@ -1,10 +1,15 @@
 📦 files 🏠
 
 🐇☢🍇
-  🖍🆕word🔡
+  🖍🆕 word 🔡
   🖍🆕frequency🔢
 
   🆕 🍼 word 🔡 🍼 frequency🔢 🍇🍉
+
+  ❗🐾🍇
+    🔡 frequency 10 ❗ ➡ freq_str
+    😀 🍪word 🔤: 🔤 freq_str🍪 ❗
+  🍉
 🍉
 
 🏁 🍇
@@ -83,6 +88,19 @@
     🍺 num ➡  num_val
     🔡 num_val 10 ❗➡val_str
     😀 🍪 key 🔤 🔤 val_str 🍪 ❗
+  🍉
+
+  🆕🍨🐚☢🍆🐸 ❗ ➡ 🖍🆕frequencies
+  
+  🔂 key keys 🍇
+    🐽 thecount key ❗ ➡ num
+    🍺 num ➡  num_val
+    🆕☢🆕 key num_val ❗ ➡ freq
+    🐻frequencies freq❗
+  🍉
+
+  🔂 frequency frequencies 🍇
+    🐾frequency❗
   🍉
   
 🍉
