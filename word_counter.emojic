@@ -1,18 +1,18 @@
 📦 files 🏠
 
 🐇☢🍇
-  🖍🆕 word 🔡
-  🖍🆕frequency🔢
+  🖍🆕word🔡
+  🖍🆕number🔢
 
-  🆕 🍼 word 🔡 🍼 frequency🔢 🍇🍉
+  🆕 🍼 word 🔡 🍼 number🔢 🍇🍉
 
   ❗🐾🍇
-    🔡 frequency 10 ❗ ➡ freq_str
-    😀 🍪word 🔤: 🔤 freq_str🍪 ❗
+    🔡 number 10 ❗ ➡ number_str
+    😀 🍪word 🔤: 🔤 number_str🍪 ❗
   🍉
 
   ❗🥶➡🔢🍇
-    ↩️ frequency
+    ↩️ number
   🍉
 
   ❗🧙‍♀️➡🔡🍇
@@ -52,8 +52,7 @@
 
       ↩️0
     🍉
-    
-  🍉 ➡ comp
+  🍉 ➡ comparator
 
   🎞🐇💻❗ ➡ args
 
@@ -133,7 +132,7 @@
     🐻frequencies freq❗
   🍉
 
-  🦁frequencies comp❗
+  🦁frequencies comparator❗
 
   🐔frequencies❗➡num_words
 
