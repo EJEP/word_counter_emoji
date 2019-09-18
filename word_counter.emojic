@@ -36,13 +36,13 @@
       🐔f2_utf ❗ ➡ n_f2_bytes
       🔂 byte1 f1_utf 🍇
         ↪️ count ▶ n_f2_bytes 🍇
-          ↩️1
-        🍉
-        🙅↪️ byte1 ◀ 🐽f2_utf count❗ 🍇
           ↩️-1
         🍉
-        🙅↪️ byte1 ▶ 🐽f2_utf count❗ 🍇
+        🙅↪️ byte1 ◀ 🐽f2_utf count❗ 🍇
           ↩️1
+        🍉
+        🙅↪️ byte1 ▶ 🐽f2_utf count❗ 🍇
+          ↩️-1
         🍉        
 
         count ➡ old_count
