@@ -138,4 +138,19 @@
   🔂 frequency frequencies 🍇
     🐾frequency❗
   🍉
+
+  🐔frequencies❗➡num_words
+
+  🖍🆕words_to_print🔢
+  ↪️ num_words ▶ 5🍇
+    5 ➡🖍words_to_print
+  🍉
+  🙅🍇
+    num_words ➡🖍 words_to_print
+  🍉
+
+  🔂 i 🆕⏩⏩ 0 words_to_print❗️ 🍇
+    🐽 frequencies i ❗➡ info
+    🐾info❗
+  🍉
 🍉
